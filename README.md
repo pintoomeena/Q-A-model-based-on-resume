@@ -1,2 +1,4 @@
 # Q-A-model-based-on-resume
-AI-powered Resume Summarizer – A ML project that uses LLaMA/transformers to generate concise 3–4 line summaries from resume text. The model extracts candidate’s experience, domain expertise, tools &amp;technologies, and key achievements. A Gradio-based web interface makes it easy to paste resumes and instantly get professional summaries in the browser.
+Built a machine learning–based resume summarization tool that automates candidate profiling by extracting experience, skills, and key achievements into structured 3–4 line summaries.
+
+Enhanced the system to generate interview-style questions from resumes, helping recruiters prepare targeted and context-aware assessments.
